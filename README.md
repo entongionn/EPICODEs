@@ -1,1 +1,1 @@
-# EPICODEs
+# Ho creato un report in Power BI per analizzare i dati di Olist Store dal 2016 al 2018. Il report mostra l'andamento degli ordini e dei ricavi nel tempo per stato, la distribuzione delle recensioni e valutazioni, e permette di confrontare i dati con l'anno precedente. Ho usato DAX per calcolare i ricavi e le variazioni percentuali, e i grafici sono interattivi, con filtri per esplorare meglio i dati. Spero vada bene, buona correzione!!
